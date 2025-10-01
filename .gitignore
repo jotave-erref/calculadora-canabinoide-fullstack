@@ -1,0 +1,20 @@
+# Arquivos do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Arquivos do Maven/Java (dentro da pasta backend)
+/backend/target/
+/backend/pom.xml.tag
+# ... (outros arquivos java que você queira ignorar)
+
+# Arquivos do Node.js/React (dentro da pasta frontend)
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env.local
+# ... (outros arquivos de node que você queira ignorar)
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
