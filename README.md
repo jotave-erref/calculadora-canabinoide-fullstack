@@ -10,6 +10,8 @@ A **Calculadora Canabinoide** é uma ferramenta desenvolvida para auxiliar médi
 
 O objetivo é automatizar e simplificar um processo que hoje é feito manualmente, aumentando a segurança e precisão das prescrições médicas.
 
+![Demonstração da Calculadora Canabinoide](./calculadora-canabinoide.gif)
+
 ## 🏛️ Estrutura do Repositório (Monorepo)
 
 Este repositório utiliza uma abordagem de monorepo para gerenciar os dois componentes principais da aplicação:
