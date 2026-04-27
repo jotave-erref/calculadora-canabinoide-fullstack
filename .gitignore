@@ -6,6 +6,8 @@
 # Arquivos do Maven/Java (dentro da pasta backend)
 /backend/target/
 /backend/pom.xml.tag
+/backend/.env
+backend/src/main/resources/application-local.properties
 # ... (outros arquivos java que você queira ignorar)
 
 # Arquivos do Node.js/React (dentro da pasta frontend)
