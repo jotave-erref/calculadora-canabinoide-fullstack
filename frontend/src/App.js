@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import './App.css'; // Importa o arquivo de estilos
+import ChatWidget from './components/ChatWidget'; // Widget de Chat flutuante
 
 function App() {
 
@@ -160,6 +161,9 @@ return (
           </div>
         </div>
       )}
+
+      {/* Chat Widget Flutuante */}
+      <ChatWidget />
     </main>
   </div>
 );
